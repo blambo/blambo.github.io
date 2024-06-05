@@ -1,5 +1,6 @@
 ---
 title: Welcome!
+layout: homepage
 ---
 
-# Hello World
+I'm a software engineer currently working as a manager for [Qwilr](https://qwilr.com) and playing with creating some helpful apps and fun games.

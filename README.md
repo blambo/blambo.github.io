@@ -22,13 +22,19 @@ Using the instructions from [Cayman Theme instructions](https://github.com/pages
 
 - Wasn't picking up theme, changed index.html to index.md
 
+## Adding a layout to modify header
+
+First attempt, followed description in Jekyll docs but this overrode the theme completely. Needed to copy in the layouts used by the Cayman theme and then modify them where needed to show themed page.
+
+Needing a bit of minor tweaking to get all lined up, but fairly straightforward.
+
 # TODOs
 
 [x] Get pages set up
 
 [x] Add a theme to the pages
 
-[ ] Configure header of pages
+[x] Configure header of pages
 
 [ ] Add blog section
 
