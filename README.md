@@ -28,6 +28,10 @@ First attempt, followed description in Jekyll docs but this overrode the theme c
 
 Needing a bit of minor tweaking to get all lined up, but fairly straightforward.
 
+## Updated blog link
+
+For now linking to external blog before settings things up in pages.
+
 # TODOs
 
 [x] Get pages set up
@@ -45,3 +49,5 @@ Needing a bit of minor tweaking to get all lined up, but fairly straightforward.
 [ ] Add some project pages
 
 [ ] Script out creation
+
+[ ] Properly customise theme
